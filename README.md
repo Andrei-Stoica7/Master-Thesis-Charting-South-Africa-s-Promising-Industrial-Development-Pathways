@@ -1,6 +1,8 @@
 # Master-Thesis-R-Scripts
 A repository code and outputs for the Maser Thesis "Charting South Africa’s Promising Industrial Development Pathways: Identification and evaluation of promising sectors for South Africa using economic complexity-relatedness analysis".
 
+Repository built upon previous work by De Wettinck, Q. (2025). Complexity Thesis Support [Source code]. https://github.com/quintendewettinck/complexity-thesis-support
+
 ## Usage
 1. Downloaded raw data is laready provided from the data sources specified below
 2. Specify the path to your raw data in RAW_DATA_PATH in the master_script_zaf.R script
