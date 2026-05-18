@@ -1,4 +1,4 @@
-# Master-Thesis-R-Scrips
+# Master-Thesis-R-Scripts
 A repository code and outputs for the Maser Thesis "Charting South Africa’s Promising Industrial Development Pathways: Identification and evaluation of promising sectors for South Africa using economic complexity-relatedness analysis".
 
 ## Usage
