@@ -18,4 +18,4 @@ Note that the master_script_zaf.R script serves as the principle analysis tools 
 * UN Gini coefficients (https://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3ASI.POV.GINI)
 
 ## Citation
-Stoica, A. (2026). Master Thesis R Scripts [Source code]. https://github.com/quintendewettinck/complexity-thesis-support
+Stoica, A. (2026). Master Thesis R Scripts [Source code]. https://github.com/Andrei-Stoica7/Master-Thesis-Charting-South-Africa-s-Promising-Industrial-Development-Pathways
