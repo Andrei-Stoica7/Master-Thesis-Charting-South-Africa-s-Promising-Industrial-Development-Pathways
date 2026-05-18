@@ -12,7 +12,7 @@ ii. Run modular analysis scripts
 Note that the master_script_zaf.R script serves as the principle analysis tools which uses modular scripts also provided in the same folder. Additionally, the outputs are already provided and running any script will overwrite the current outputs.
 
 ## Data Sources
-* CEPII BACI international trade data (HS07, 2007-2024)(https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37)
+* CEPII BACI international trade data (HS07, 2007-2024) (https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37)
 * UN HS product descriptions (https://unstats.un.org/unsd/classifications/Econ)
   * Downloaded "All HS codes and descriptions" xlsx file for product descriptions for all HS digits
 * UN Gini coefficients (https://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3ASI.POV.GINI)
