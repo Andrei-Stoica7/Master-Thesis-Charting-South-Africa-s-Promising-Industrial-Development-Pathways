@@ -1,0 +1,11 @@
+"RANK";"PRODUCT CODE";"PRODUCT DESCRIPTION";"RCA";"PCI";"RELATEDNESS DENSITY";"OPPORTUNITY GAIN (Z-SCORE)";"PGI (Z-SCORE)";"ECONOMIC BENEFIT SCORE"
+1;4801;"Newsprint, in rolls or sheets";0,645817430614055;1,15459105329732;0,143329351637881;1,27028357301057;-1,64566276920687;0,865925165617946
+2;3507;"Enzymes; prepared enzymes not elsewhere specified or included";0,676495610106253;1,01740594732777;0,137539186403886;1,45544884628765;-1,3800213576157;0,787062123837962
+3;3404;"Waxes; artificial, prepared";0,596457645017805;0,55771945618177;0,139291133453398;0,630565805258635;-2,07643816460173;0,759985231896777
+4;1210;"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin";0,659438289682167;0,790539285036609;0,135418350769286;0,735187821738659;-2,04324733101628;0,748989960122371
+5;3005;"Wadding, gauze, bandages (dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or in forms or packings for retail sale, for medical, surgical or veterinary use";0,509577105214944;0,672318944894376;0,1493745424494;0,779207086528393;-1,38716100504512;0,670395389693268
+6;2708;"Pitch and pitch coke; obtained from coal tar or from other mineral tars";0,535718568333446;1,45605604408427;0,11282525212139;1,3837914039819;-1,65293231735897;0,632036324441364
+7;8530;"Signalling, safety or traffic control equipment; for railways, tramways, roads, inland waterways, parking facilities, port installations, airfields, excluding those of heading no. 8608";0,639265185066065;0,95169364192707;0,146966345922032;1,0811553421874;-1,01526797373071;0,625437400299624
+8;3816;"Refractory cements, mortars, concretes and similar compositions; other than products of heading no. 3801";0,968571412664482;0,894094211211369;0,141697035633437;1,15684792345425;-1,07504791487289;0,623238299021243
+9;8436;"Agricultural, horticultural, forestry, poultry-keeping, bee-keeping machinery; including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders";0,877392809941969;0,604165246872016;0,146104424033693;0,705145806112155;-1,20843066079615;0,556742143162123
+10;5704;"Carpets and other textile floor coverings; of felt, (not tufted or flocked), whether or not made up";0,518568914016216;0,218863703404422;0,142640234605153;0,33836988207734;-1,3295534366059;0,44372422407288
