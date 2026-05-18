@@ -4,9 +4,9 @@ A repository code and outputs for the Maser Thesis "Charting South Africa’s Pr
 Repository built upon previous work by De Wettinck, Q. (2025). Complexity Thesis Support [Source code]. https://github.com/quintendewettinck/complexity-thesis-support
 
 ## Usage
-1. Downloaded raw data is laready provided from the data sources specified below
+1. Download raw data from CEPII BACI and follow readme.txt in folder of the same name under data_raw. Other datasets is laready provided from the data sources specified below
 2. Specify the path to your raw data in RAW_DATA_PATH in the master_script_zaf.R script
-3. Specify the baci_version, HS_version and HS_digits, as well as the years for which you have BACI data in the data_processing.R script
+3. Optional: Specify the baci_version, HS_version and HS_digits, as well as the years for which you have BACI data in the data_processing.R script
 4. Run the master_script_zaf.R script, which will:
 i. Create the directory and import the BACI trade data
 ii. Run modular analysis scripts
